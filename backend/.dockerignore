@@ -1,0 +1,5 @@
+.gocache
+.gopath
+bin
+coverage.out
+.git
